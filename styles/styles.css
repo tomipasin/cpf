@@ -1,0 +1,32 @@
+.boxed {
+    border: 1px solid green ;
+  }
+
+  .valido{
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(9,255,0,1) 100%);
+  }
+
+  .invalido{
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 100%);
+}
+
+.imag {
+    width: 10vh;
+}
+
+.bodie{
+  background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%);
+}
+
+.jbtr{
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(98,0,255,1) 100%);
+}
+
+.cpfInformado{
+  text-align: center;
+  padding-top: 12px;
+}
